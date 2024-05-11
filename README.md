@@ -1,2 +1,5 @@
-# OTUS-Linux-Professional
-ДЗ по курсу OTUS Linux Professional
+# OTUS-Linux-Professional ДЗ 01
+Домашнее задание
+Настройка ПК
+Цель:
+настроить рабочее место
